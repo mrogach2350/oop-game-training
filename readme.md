@@ -7,7 +7,7 @@ Location: SF
 
 #Michael Rogachevsky: Racing Game
 
-Reflection: This outline was difficult in some respects as the actual funtionality of the game is very simple. The most complex element is the randomization of key bindings to the board. 
+Reflection: This outline was difficult in some respects as the actual funtionality of the game is very simple. The most complex element is the randomization of key bindings to the board.. 
 
 
 ### User Stories & Game Mechanics
